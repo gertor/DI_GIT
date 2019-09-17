@@ -5,10 +5,5 @@
 <ContainObj>SBIP://METASERVER/DI_GIT/DI_TEST(Job)</ContainObj>
 <ContainObj>SBIP://METASERVER/DI_GIT/DI_TEST.sas(Note)</ContainObj>
 </ArchInfo>
-<ArchInfo Date="1568713057411" Description="" Name="test" PackageName="test.spk" UserID="gertor@europe" Version="9056a9c">
-<ContainObj>SBIP://METASERVER/DI_GIT(Folder)</ContainObj>
-<ContainObj>SBIP://METASERVER/DI_GIT/CITIES_FILTER(Table)</ContainObj>
-<ContainObj>SBIP://METASERVER/DI_GIT/DI_TEST(Job)</ContainObj>
-<ContainObj>SBIP://METASERVER/DI_GIT/DI_TEST.sas(Note)</ContainObj>
-</ArchInfo>
+
 </ROOT>
