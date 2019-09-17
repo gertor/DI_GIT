@@ -1,2 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><ROOT>
+<ArchInfo Date="1568712615585" Description="" Name="DI_GIT" PackageName="DI_GIT.spk" UserID="gertor@europe" Version="1280aa9">
+<ContainObj>SBIP://METASERVER/DI_GIT(Folder)</ContainObj>
+<ContainObj>SBIP://METASERVER/DI_GIT/CITIES_FILTER(Table)</ContainObj>
+<ContainObj>SBIP://METASERVER/DI_GIT/DI_TEST(Job)</ContainObj>
+<ContainObj>SBIP://METASERVER/DI_GIT/DI_TEST.sas(Note)</ContainObj>
+</ArchInfo>
 </ROOT>
