@@ -41,4 +41,11 @@
 <ContainObj>SBIP://METASERVER/DI_GIT/DI_TEST(Job)</ContainObj>
 <ContainObj>SBIP://METASERVER/DI_GIT/DI_TEST.sas(Note)</ContainObj>
 </ArchInfo>
+<ArchInfo Date="1568907501062" Description="change climate to 99" Name="DI_TEST" PackageName="DI_TEST.spk" UserID="gertor@europe" Version="67cecba">
+<ContainObj>SBIP://METASERVER/DI_GIT(Folder)</ContainObj>
+<ContainObj>SBIP://METASERVER/DI_GIT/CIT_TEMP(Table)</ContainObj>
+<ContainObj>SBIP://METASERVER/DI_GIT/CITIES_FILTER(Table)</ContainObj>
+<ContainObj>SBIP://METASERVER/DI_GIT/DI_TEST(Job)</ContainObj>
+<ContainObj>SBIP://METASERVER/DI_GIT/DI_TEST.sas(Note)</ContainObj>
+</ArchInfo>
 </ROOT>
