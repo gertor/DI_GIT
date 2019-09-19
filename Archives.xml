@@ -34,4 +34,11 @@
 <ContainObj>SBIP://METASERVER/DI_GIT/DI_TEST(Job)</ContainObj>
 <ContainObj>SBIP://METASERVER/DI_GIT/DI_TEST.sas(Note)</ContainObj>
 </ArchInfo>
+<ArchInfo Date="1568907436544" Description="" Name="DI_TEST" PackageName="DI_TEST.spk" UserID="gertor@europe" Version="c4f073e">
+<ContainObj>SBIP://METASERVER/DI_GIT(Folder)</ContainObj>
+<ContainObj>SBIP://METASERVER/DI_GIT/CIT_TEMP(Table)</ContainObj>
+<ContainObj>SBIP://METASERVER/DI_GIT/CITIES_FILTER(Table)</ContainObj>
+<ContainObj>SBIP://METASERVER/DI_GIT/DI_TEST(Job)</ContainObj>
+<ContainObj>SBIP://METASERVER/DI_GIT/DI_TEST.sas(Note)</ContainObj>
+</ArchInfo>
 </ROOT>
